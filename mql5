@@ -1,0 +1,60 @@
+mql5
+//+------------------------------------------------------------------+
+//|                                            ONI EA mt5            |
+//|                                     Forex Robot Easy Team        |
+//|                                          forexroboteasy.com      |
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//|                                ONI EA mt5                         |
+//|                                                                  |
+//|  This EA is designed to capitalize on the volatility of the       |
+//|  foreign exchange market by implementing a strategy centered     |
+//|  around the concept of price reversion to the average value.      |
+//|  It includes functionality for setting stop loss (SL) and take    |
+//|  profit (TP) levels to maximize profitability. The trawl feature  |
+//|  adjusts SL and TP levels based on market conditions. Additional  |
+//|  orders can be executed in the same direction to enhance profit   |
+//|  potential. Traders have the ability to close the entire series   |
+//|  of orders with a profit for peace of mind and security.          |
+//|                                                                  |
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//|                              ONI EA mt5                          |
+//|                                                                  |
+//|  This EA is a fully automated trading robot that uses the         |
+//|  MetaTrader 5 platform to execute trades in the foreign exchange  |
+//|  market. It follows a strategy based on price reversion to the    |
+//|  average value, allowing traders to capitalize on market          |
+//|  volatility. The EA includes functionality for setting stop loss  |
+//|  (SL) and take profit (TP) levels to maximize profitability.      |
+//|  It also incorporates a trawl feature to dynamically adjust SL    |
+//|  and TP levels based on market conditions. Additionally, the EA   |
+//|  can execute additional orders in the same direction to enhance   |
+//|  profit potential. Traders have the ability to close the entire   |
+//|  series of orders with a profit, providing peace of mind and      |
+//|  security.                                                        |
+//|                                                                  |
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//|                          ONI EA mt5                               |
+//|                                                                  |
+//|  This EA is a powerful tool designed to assist forex traders in   |
+//|  capitalizing on the volatility of the foreign exchange market.  |
+//|  It follows a strategy centered around the concept of price       |
+//|  reversion to the average value, allowing traders to take         |
+//|  advantage of market fluctuations. The EA includes functionality  |
+//|  for setting stop loss (SL) and take profit (TP) levels to        |
+//|  maximize profitability. It also incorporates a trawl feature     |
+//|  to dynamically adjust SL and TP levels based on market           |
+//|  conditions. The EA enables the execution of additional orders    |
+//|  in the same direction to enhance profit potential. Traders       |
+//|  have the ability to close the entire series of orders with a     |
+//|  profit, providing peace of mind and security.                    |
+//|                                                                  |
+//+------------------------------------------------------------------+
